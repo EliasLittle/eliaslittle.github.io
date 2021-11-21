@@ -22,7 +22,7 @@ layout: newcss
     - Can buy from lots of places
         - [tld-list](https://tld-list.com) compares prices and extensions
         - [Namecheap](https://namecheap.com), [Google Domains](https://domains.google.com), [GoDaddy](https://godaddy.com) are all popular
-            
+
 ### Simple Websites
 - Markup languages
     - Used to describe how to display text and other content
@@ -35,7 +35,7 @@ layout: newcss
     - You can also add a `_config.yml` to specify a few things like the title and description
     - Can add HTML layouts that can be reused on multiple pages
     - THIS is a github pages website, source code can be found [here](https://github.com/EliasLittle/eliaslittle.github.io)
-    
+
 ### Advanced Websites
 - Usually use a Javascript Framework
     - These can get complicated fast, but are really powerful
@@ -47,8 +47,8 @@ layout: newcss
     - I mostly use Vue with [Nuxt](http://nuxtjs.org) a framework on top of Vue
     - I have also briefly messed around with Svelte. 
 - Deployed using some hosting service
-    - Netlify is a popular one, which I personally use
-    - Heroku
+    - [Netlify](https://www.netlify.com) is a popular one, which I personally use
+    - [Heroku](https://heroku.com)
     - AWS, Google, Azure, etc...
 - A popular and easy philosophy for building website is something called [JAMStack](https://jamstack.org)
     - Stands for Javascript, Apis & Markdown
